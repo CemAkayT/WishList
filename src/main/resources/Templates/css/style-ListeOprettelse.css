@@ -1,0 +1,4 @@
+.getInfo {
+    display: flex;
+    flex-direction: column;
+}
